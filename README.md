@@ -6,3 +6,4 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 #### Monday, November 4th, 2019
 - Started this changelog!
 - Starting the intro to Java course in IntelliJ IDEA: https://www.jetbrains.com/help/education/learner-start-guide.html?section=Introduction%20to%20Java
+- Meditated to a 5 minute lesson on the buddhify app
