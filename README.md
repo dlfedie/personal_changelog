@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Tuesday, November 5th, 2019
+- More Java!
+
+
 #### Monday, November 4th, 2019
 - Started this changelog!
 - Starting the intro to Java course in IntelliJ IDEA: https://www.jetbrains.com/help/education/learner-start-guide.html?section=Introduction%20to%20Java
