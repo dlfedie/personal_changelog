@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Wednesday, November 6th, 2019
+- Alum scrum.
+- Mentor meetup.
+
 #### Tuesday, November 5th, 2019
 - More Java!
 - 11 minute buddhify meditation.
