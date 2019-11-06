@@ -5,7 +5,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 ---
 #### Tuesday, November 5th, 2019
 - More Java!
-
+- 11 minute buddhify meditation.
 
 #### Monday, November 4th, 2019
 - Started this changelog!
