@@ -4,8 +4,9 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Wednesday, November 6th, 2019
-- Alum scrum.
+- More Java, looking to start building tomorrow.
 - Mentor meetup.
+- Raked leaves for 30 min. Whee!
 
 #### Tuesday, November 5th, 2019
 - More Java!
