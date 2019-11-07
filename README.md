@@ -5,6 +5,9 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 ---
 #### Thursday, November 7th, 2019
 - Frisbee team site started! (In JS, I'll get to Java later.)
+- 10 min meditation
+- Practiced choir music for 15 min
+- Choir rehersal
 
 #### Wednesday, November 6th, 2019
 - More Java, looking to start building tomorrow.
