@@ -3,6 +3,9 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Thursday, November 7th, 2019
+- Frisbee team site started! (In JS, I'll get to Java later.)
+
 #### Wednesday, November 6th, 2019
 - More Java, looking to start building tomorrow.
 - Mentor meetup.
