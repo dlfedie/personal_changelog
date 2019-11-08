@@ -3,6 +3,11 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Friday, November 8th, 2019
+- Frisbee team site.
+- 3 calls with potential new employers, so that's fun.
+- 15 min meditation
+
 #### Thursday, November 7th, 2019
 - Frisbee team site started! (In JS, I'll get to Java later.)
 - 10 min meditation
