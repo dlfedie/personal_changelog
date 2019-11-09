@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Saturday, November 9th, 2019
+- Frisbee team site.
+- 15 min meditation
+
 #### Friday, November 8th, 2019
 - Frisbee team site.
 - 3 calls with potential new employers, so that's fun.
