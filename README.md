@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Tuesday, November 12th, 2019
+- Java tutorial...I think starting to build something would spark my interest more. Reading and doing are less fun that just creating something.. Going to push through and try and finish that up so I can get to some fun stuff.
+- 20 min meditation.
+
 #### Monday, November 11th, 2019
 - Polishing off frisbee team site and going to make it a public repo.
 - Back to Java!
