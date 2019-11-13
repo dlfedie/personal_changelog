@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Wednesday, November 13th, 2019
+- Looking into React hooks.
+- Java still.
+
 #### Tuesday, November 12th, 2019
 - Java tutorial...I think starting to build something would spark my interest more. Reading and doing are less fun that just creating something.. Going to push through and try and finish that up so I can get to some fun stuff.
 - 20 min meditation.
