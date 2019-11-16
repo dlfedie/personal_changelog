@@ -3,6 +3,14 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Saturday, November 16th, 2019
+- 3 hours of raking leaves.
+- Back stretches afterwards..
+
+#### Friday, November 15th, 2019
+- Forgot to post about it so I won't get the green box, but did more Java. Looked a little bit into a Springboot server, because that's ultimately what I want to do.
+- Read up on AWS because why do one thing when you can learrn ALL OF THE THINGS??
+
 #### Thursday, November 14th, 2019
 - Java
 - React hooks. Once I get both of these down I plan on creating something and pushing it up here.
