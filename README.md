@@ -3,6 +3,11 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Monday, November 18th, 2019
+- Applications and phone screens.
+- Java training. Also installed a Spring Boot instance so I may get time to play around with that tonight.
+- 20 min lower back/leg stretch exercise. Helpful for tall people like myself.
+
 #### Sunday, November 17th, 2019
 - Choir concert. Lots of standing, stretching, and oh right, singing.
 
