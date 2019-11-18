@@ -3,6 +3,9 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Sunday, November 17th, 2019
+- Choir concert. Lots of standing, stretching, and oh right, singing.
+
 #### Saturday, November 16th, 2019
 - 3 hours of raking leaves.
 - Back stretches afterwards..
