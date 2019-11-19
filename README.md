@@ -4,6 +4,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Tuesday, November 19th, 2019
+- Created an AWS account and created my first server, wooooo! http://18.219.158.201/ (link will likely die at some point because I don't want to keep it up forever and get charged..)
 - Applications and folowup emails.
 - Java training.
 - Read a few developer articles on Medium and Dev.
