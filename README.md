@@ -3,6 +3,12 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Tuesday, November 19th, 2019
+- Applications and folowup emails.
+- Java training.
+- Read a few developer articles on Medium and Dev.
+- 15 min meditation.
+
 #### Monday, November 18th, 2019
 - Applications and phone screens.
 - Java training. Also installed a Spring Boot instance so I may get time to play around with that tonight.
