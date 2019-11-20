@@ -3,6 +3,13 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Wednesday, November 20th, 2019
+- Sadly, the AWS server died.. :( Well, I turned it off so as to not incur charges.
+- Looking at Docker now to see if I can get an app up to AWS!
+- Developer articles (I've been doing this for a while now, forgot to post until yesterday).
+- 10 min meditation.
+- JAVA
+
 #### Tuesday, November 19th, 2019
 - Created an AWS account and created my first server, wooooo! http://18.219.158.201/ (link will likely die at some point because I don't want to keep it up forever and get charged..)
 - Applications and folowup emails.
