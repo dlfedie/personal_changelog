@@ -6,6 +6,8 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 #### Thursday, November 21st, 2019
 - Java
 - Docker intro video
+- Applications.
+- 12 min meditation.
 
 #### Wednesday, November 20th, 2019
 - Sadly, the AWS server died.. :( Well, I turned it off so as to not incur charges.
