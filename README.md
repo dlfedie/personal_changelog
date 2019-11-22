@@ -5,7 +5,9 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 ---
 #### Friday, November 22nd, 2019
 - Followups
-- Java/Docker/maybe just a react app today..
+- Looked at some Docker tutorials.
+- Deployed my frisbee team's site/made it public!
+- Going climbing!
 
 #### Thursday, November 21st, 2019
 - Java
