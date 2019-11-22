@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Friday, November 22nd, 2019
+- Followups
+- Java/Docker/maybe just a react app today..
+
 #### Thursday, November 21st, 2019
 - Java
 - Docker intro video
