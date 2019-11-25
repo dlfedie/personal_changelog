@@ -3,11 +3,21 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Monday, November 25th, 2019
+- 
+
+#### Sunday, November 24th, 2019
+- Choir concert. Last of the season!
+
+#### Saturday, November 23rd, 2019
+- 10 min meditation.
+- Reading! Started that Clean Code book I talked about way back when..
+
 #### Friday, November 22nd, 2019
 - Followups
 - Looked at some Docker tutorials.
 - Deployed my frisbee team's site/made it public!
-- Going climbing!
+- Climbing at VE for 2 hours.
 
 #### Thursday, November 21st, 2019
 - Java
