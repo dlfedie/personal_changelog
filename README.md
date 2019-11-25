@@ -7,6 +7,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 - Learned a lot about deadbolts today, as one of mine on my current place broke. Landlord is having me replace it, which is fine. This consumed most of my day, but it counts as learning! Take that, school.
 - 10 min meditation.
 - Read 3 DEV articles on JS and AWS.
+- AWS S3 code pipeline deploy video. Going to look into doing that tomorrow..
 
 #### Sunday, November 24th, 2019
 - Choir concert. Last of the season!
