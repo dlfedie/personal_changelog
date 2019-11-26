@@ -5,6 +5,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 ---
 #### Tuesday, November 26th, 2019
 - Applying and following up.
+- React Context video.
 - Hoping to do the S3 pipeline deploy.
 
 #### Monday, November 25th, 2019
