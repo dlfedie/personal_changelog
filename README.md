@@ -6,7 +6,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 #### Tuesday, November 26th, 2019
 - Applying and following up.
 - React Context video.
-- Hoping to do the S3 pipeline deploy.
+- AWS Pipeline deploy test successful! https://codepipeline-monkey-demo.s3.us-east-2.amazonaws.com/index.html#/about Want to look into RDS to get a database uploaded. And in theory, Docker would make this all easier.
 
 #### Monday, November 25th, 2019
 - Learned a lot about deadbolts today, as one of mine on my current place broke. Landlord is having me replace it, which is fine. This consumed most of my day, but it counts as learning! Take that, school.
