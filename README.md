@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Tuesday, November 26th, 2019
+- Applying and following up.
+- Hoping to do the S3 pipeline deploy.
+
 #### Monday, November 25th, 2019
 - Learned a lot about deadbolts today, as one of mine on my current place broke. Landlord is having me replace it, which is fine. This consumed most of my day, but it counts as learning! Take that, school.
 - 10 min meditation.
