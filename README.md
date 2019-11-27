@@ -4,10 +4,10 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Wednesday, November 27th, 2019
-[x] Switching to checkboxes..might help for next days? And I want to see how they look in MDs. Plus unaccomplished things I can move to the next day?
-[x] Read a few articles (DEV, Medium, various other tech sites).
-[x] Slow day since I had a doc appt that is wiping me out. Planning for the next few days!
-[ ] Not checking this box, seeing if I know what I'm doing.
+- [x] Switching to checkboxes..might help for next days? And I want to see how they look in MDs. Plus unaccomplished things I can move to the next day?
+- [x] Read a few articles (DEV, Medium, various other tech sites).
+- [x] Slow day since I had a doc appt that is wiping me out. Planning for the next few days!
+- [ ] Not checking this box, seeing if I know what I'm doing.
   
 #### Tuesday, November 26th, 2019
 - Applying and following up.
