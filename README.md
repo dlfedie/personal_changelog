@@ -4,6 +4,9 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Thursday, November 28th, 2019
+- [x] Couple of articles, looking to do some projects this weekend (ideally..).
+
+#### Thursday, November 28th, 2019
 - [x] Read 3 artcles. Also,turkey day,so I doubt anything else happens today!
 
 #### Wednesday, November 27th, 2019
