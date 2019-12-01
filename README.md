@@ -3,11 +3,14 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
-#### Thursday, November 28th, 2019
+#### Saturday, November 30th, 2019
+-[x] Shovelling snow for an hour. Whee! Also not feeling great, so easing back.
+
+#### Friday, November 29th, 2019
 - [x] Couple of articles, looking to do some projects this weekend (ideally..).
 
 #### Thursday, November 28th, 2019
-- [x] Read 3 artcles. Also,turkey day,so I doubt anything else happens today!
+- [x] Read 3 artcles. Also, turkey day, so I doubt anything else happens today!
 
 #### Wednesday, November 27th, 2019
 - [x] Switching to checkboxes..might help for next days? And I want to see how they look in MDs. Plus unaccomplished things I can move to the next day?
