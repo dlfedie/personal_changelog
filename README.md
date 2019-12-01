@@ -3,8 +3,12 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Sunday, December 1st, 2019
+- [x] Shovelling snow for 2 hours.
+- [x] Read 3 articles, looking at things to start tomorrow.
+
 #### Saturday, November 30th, 2019
--[x] Shovelling snow for an hour. Whee! Also not feeling great, so easing back.
+- [x] Shovelling snow for an hour. Whee! Also not feeling great, so easing back.
 
 #### Friday, November 29th, 2019
 - [x] Couple of articles, looking to do some projects this weekend (ideally..).
