@@ -3,11 +3,17 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
-#### Sunday, December 2nd, 2019
+#### Tuesday, December 3rd, 2019
 - [ ] Followups and applying.
-- [ ] Either looking into Docker or AWS RDS to get a database up on my demo site for the AWS stuff I'm working on.
-- [ ] Java tutorial. Time to get back on that horse.
+- [ ] Got some info from John re Docker, and I'll look into that when I get a chance. 
+- [ ] Java tutorial.. May pickup a Udemy course, since they're on sale. See if that style fits me.
 - [ ] Clean Code - read for at least 30 min.
+- [ ] Start a new project. Anything! Probably JS still, but if I can incorporate any Java, I may.
+
+#### Monday, December 2nd, 2019
+- [x] Followups and applying.
+- [x] Java tutorial. Time to get back on that horse.
+- [x] Clean Code - read for at least 30 min.
 
 #### Sunday, December 1st, 2019
 - [x] Shovelling snow for 2 hours.
