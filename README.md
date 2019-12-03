@@ -4,11 +4,11 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Tuesday, December 3rd, 2019
-- [ ] Followups and applying.
-- [ ] Got some info from John re Docker, and I'll look into that when I get a chance. 
-- [ ] Java tutorial.. May pickup a Udemy course, since they're on sale. See if that style fits me.
-- [ ] Clean Code - read for at least 30 min.
-- [ ] Start a new project. Anything! Probably JS still, but if I can incorporate any Java, I may.
+- [x] Followups and applying.
+- [x] Got some info from John re Docker, and I'll look into that when I get a chance. 
+- [x] Java tutorial. Picked up a Udemy course, since they're on sale. We'll see if that style fits me.
+- [x] Clean Code - read for at least 30 min.
+- [x] Start a new project. Anything! Probably JS still, but if I can incorporate any Java, I may. Rock Paper Scissors game!
 
 #### Monday, December 2nd, 2019
 - [x] Followups and applying.
