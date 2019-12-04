@@ -4,11 +4,11 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Wednesday, December 4th, 2019
-- [ ] Applying to jobs
-- [ ] Getting started on the udemy course.
+- [x] Applying to jobs
+- [x] Getting started on the udemy course.
 - [ ] Docker
-- [ ] Read 30 min of Clean Code
-- [ ] Meditation, stretches
+- [x] Read 30 min of Clean Code
+- [x] Meditation, stretches
 
 #### Tuesday, December 3rd, 2019
 - [x] Followups and applying.
