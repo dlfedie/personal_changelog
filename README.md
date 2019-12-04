@@ -3,6 +3,13 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Wednesday, December 4th, 2019
+- [ ] Applying to jobs
+- [ ] Getting started on the udemy course.
+- [ ] Docker
+- [ ] Read 30 min of Clean Code
+- [ ] Meditation, stretches
+
 #### Tuesday, December 3rd, 2019
 - [x] Followups and applying.
 - [x] Got some info from John re Docker, and I'll look into that when I get a chance. 
