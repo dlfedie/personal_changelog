@@ -3,11 +3,16 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Friday, December 6th, 2019
+- [x] Udemy Java course!!
+- [ ] Read 30 min of Clean Code
+- [ ] Continue project/start Docker tutorials?
+
 #### Thursday, December 5th, 2019
 - [x] Apply to jobs
 - [x] Udemy Java course!!
-- [ ] Read 30 min of Clean Code
-- [ ] Meditation and stretches
+- [x] Read 30 min of Clean Code
+- [x] Meditation and stretches
 - [ ] Continue project/start Docker tutorials?
 
 #### Wednesday, December 4th, 2019
