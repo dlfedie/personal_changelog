@@ -3,6 +3,10 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Sunday, December 8th, 2019
+- [ ] Rowing machine workout
+- [ ] Read 30 min of Clean Code
+
 #### Saturday, December 7th, 2019
 - [x] Helped friends move. Cardio! Arms! Balance! Then a nap.
 - [x] Read 30 min of Clean Code
