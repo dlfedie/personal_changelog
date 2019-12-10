@@ -4,7 +4,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 
 ---
 #### Tuesday, December 10th, 2019
-- [ ] Apply
+- [x] Apply
 - [ ] Rowing machine
 - [x] Java tutorial
 - [ ] Read Clean Code
