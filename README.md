@@ -33,6 +33,7 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 - [x] Udemy Java course!!
 - [x] Read 30 min of Clean Code
 - [x] Meditation and stretches
+- [x] Culture! Went to MN History Center to see new exhibit, Our Home: Native Minnesota
 - [ ] Continue project/start Docker tutorials?
 
 #### Wednesday, December 4th, 2019
