@@ -3,9 +3,21 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Tuesday, December 10th, 2019
+- [ ] Apply
+- [ ] Rowing machine
+- [x] Java tutorial
+- [ ] Read Clean Code
+
+#### Monday, December 9th, 2019
+- [x] Apply to jobses
+- [x] Followups
+- [x] Java tutorial
+- [x] Shoveling! Seriously, this year is going to keep me in shape..
+
 #### Sunday, December 8th, 2019
-- [ ] Rowing machine workout
-- [ ] Read 30 min of Clean Code
+- [x] Rowing machine workout
+- [x] Read 30 min of Clean Code
 
 #### Saturday, December 7th, 2019
 - [x] Helped friends move. Cardio! Arms! Balance! Then a nap.
