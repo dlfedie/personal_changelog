@@ -5,9 +5,10 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 ---
 #### Tuesday, December 10th, 2019
 - [x] Apply
-- [ ] Rowing machine
+- [x] Rowing machine
 - [x] Java tutorial
 - [ ] Read Clean Code
+- [x] Start learning Python apis because I have a code challenge for one, heh.
 
 #### Monday, December 9th, 2019
 - [x] Apply to jobses
