@@ -3,11 +3,16 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Thursday, December 12th, 2019
+- [x] Python code challenge
+- [ ] Shovelling..
+- [ ] Going to a concert at Orchestra Hall
+
 #### Wednesday, December 11th, 2019
 - [x] Python code challenge.
 - [ ] Rowing machine
 - [ ] Java tutorial
-- [ ] Read Clean Code
+- [x] Read Clean Code
 
 #### Tuesday, December 10th, 2019
 - [x] Apply
