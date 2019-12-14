@@ -3,10 +3,13 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
-#### Friday, December 12th, 2019
-- [ ] Finishing up Python challenge
-- [ ] Rowing!
-- [ ] Reading Clean Code
+#### Saturday, December 14th, 2019
+- [ ] Reading
+
+#### Friday, December 13th, 2019
+- [x] Finishing up Python challenge
+- [x] Rowing!
+- [x] Reading Clean Code
 
 #### Thursday, December 12th, 2019
 - [x] Python code challenge
