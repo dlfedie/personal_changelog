@@ -3,6 +3,12 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Monday, December 16th, 2019
+- [x] 30 day challenge already ended, so LAY OFF, BRAIN!
+- [x] Started code challenge for another place.
+- [x] Rowing 15 min. I am not an expert rower.
+
+
 #### Saturday, December 14th, 2019
 - [ ] Reading
 
