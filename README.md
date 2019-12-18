@@ -3,6 +3,14 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Wednesday, December 18th, 2019
+- [ ] Attempting to finish up or at least get mostly done in new code challenge
+- [ ] Read Clean Code. Been at a chapter break for a few days.
+- [ ] Row, row, row the machine, to make the kitty wide-eyed and wondering what the noise is.
+
+#### Tuesday, December 17th, 2019
+- [x] Did some of new code challenge
+
 #### Monday, December 16th, 2019
 - [x] 30 day challenge already ended, so LAY OFF, BRAIN!
 - [x] Started code challenge for another place.
