@@ -3,8 +3,12 @@
 I will be participating in the 30 day challenege outlined here: https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ---
+#### Friday, December 20th, 2019
+- [x] Mostly just tidying up a few loose ends. Finished code challenge, did the test, emailed folks who needed emailing.
+- [x] Broomball season has begun! I'm not on as many teams this year, but hopefully get some playing time here and there. That's ok, though, because I'm also horribly out of shape.
+
 #### Wednesday, December 18th, 2019
-- [ ] Attempting to finish up or at least get mostly done in new code challenge
+- [x] Attempting to finish up or at least get mostly done in new code challenge
 - [ ] Read Clean Code. Been at a chapter break for a few days.
 - [ ] Row, row, row the machine, to make the kitty wide-eyed and wondering what the noise is.
 
